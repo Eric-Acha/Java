@@ -8,6 +8,6 @@ public class do_while_loop {
             x++;
             System.out.println("\n");
 
-        } while (x < 30);
+        } while (x < 10);
     }
 }
